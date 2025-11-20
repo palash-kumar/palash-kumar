@@ -68,8 +68,8 @@
 
 <div align="center">
   
-![Palash's GitHub stats](https://github-readme-stats.vercel.app/api?username=palash-kumar&show_icons=true&theme=radical#gh-dark-mode-only)
-![Palash's GitHub stats](https://github-readme-stats.vercel.app/api?username=palash-kumar&show_icons=true&theme=default#gh-light-mode-only)
+<!---![Palash's GitHub stats](https://github-readme-stats.vercel.app/api?username=palash-kumar&show_icons=true&theme=radical#gh-dark-mode-only)
+![Palash's GitHub stats](https://github-readme-stats.vercel.app/api?username=palash-kumar&show_icons=true&theme=default#gh-light-mode-only) --->
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=palash-kumar&layout=compact&theme=radical#gh-dark-mode-only)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=palash-kumar&layout=compact&theme=default#gh-light-mode-only)
