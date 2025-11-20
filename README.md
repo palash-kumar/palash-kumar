@@ -1,81 +1,91 @@
-<h1 align="center">👋 Hi, I'm <span style="color:#00bcd4;">Palash Nath</span></h1>
+# 👋 Hi, I'm Palash Kumar
+
+💻 **Senior Software Engineer** specializing in secure, scalable software development, ERP systems, and modern UI/UX.  
+I architect modular Spring Boot applications, mobile apps, and DevOps pipelines with robust domain separation and operational independence.
+
+---
+
+## 🛠️ Skills & Technologies
 
 <p align="center">
-  <strong>Senior Software Engineer</strong> • Secure Systems Architect • Modular Design Enthusiast • UX-Driven Developer
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
+
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate"/>
+  <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security"/>
+
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  <img src="https://img.shields.io/badge/AdminLTE-3C3C3C?style=for-the-badge&logo=html5&logoColor=white" alt="AdminLTE"/>
+  <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white" alt="Thymeleaf"/>
+
+  <!-- Mobile -->
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
+
+  <!-- Databases -->
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+
+  <!-- DevOps -->
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
+  <img src="https://img.shields.io/badge/GitLabCI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab CI"/>
+  <img src="https://img.shields.io/badge/GitHubActions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
 </p>
 
-<p align="center">
-  <a href="https://mg.maestro.com.bd:58480/users/Palash/projects"><img src="https://img.shields.io/badge/GitLab-Projects-orange?logo=gitlab" alt="GitLab Projects"></a>
-  <a href="https://mg.maestro.com.bd:58480/users/Palash/activity"><img src="https://img.shields.io/badge/Recent-Activity-blue?logo=git" alt="Recent Activity"></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-green?logo=gmail" alt="Email"></a>
-</p>
+---
+
+## 📌 Highlighted Projects
+
+- 🔐 **MaximCP App** – ISP management system with billing, payments, parental controls, and REST APIs.  
+- 📊 **maXim ERP** – Enterprise resource planning system with attendance, inventory, and reporting.  
+- 🌐 **Hotspot Manager** – WiFi hotspot management with Mikrotik integration and payment gateways.  
+- 🏢 **Corporate Hotspot** – Branch and role-based hotspot management with Spring Security.  
+- 📱 **Maxim Flutter App** – Mobile billing app with Bluetooth receipt printing.  
+- 🔗 **BDCom Billing API** – RESTful API for ISP billing with JWT authentication.  
+- 📡 **MaximCP Customer App** – Android app with OTP login and Firebase notifications.  
+- 🕒 **ZKTeco Attendance System** – Biometric attendance tracking with Hibernate and Oracle.  
+- 🧾 **Maestro App** – Full-stack business operations app with Spring Boot + React, Redis caching, OCR, and PDF/QR generation.  
+- ⚙️ **DevOps Production** – CI/CD pipelines, Dockerized deployments, monitoring dashboards with Grafana and ELK.  
 
 ---
 
-## 🚀 Featured Deployment: Maestro
+## 📊 GitHub Stats
 
-🔗 **Live App**: [Maestro App](https://mg.maestro.com.bd:58480/Palash)
+<div align="center">
+  
+![Palash's GitHub stats](https://github-readme-stats.vercel.app/api?username=palash-kumar&show_icons=true&theme=radical#gh-dark-mode-only)
+![Palash's GitHub stats](https://github-readme-stats.vercel.app/api?username=palash-kumar&show_icons=true&theme=default#gh-light-mode-only)
 
-Maestro is a production-grade platform demonstrating:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=palash-kumar&layout=compact&theme=radical#gh-dark-mode-only)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=palash-kumar&layout=compact&theme=default#gh-light-mode-only)
 
-- 🧱 **Spring Boot microservice architecture** with domain separation and operational independence  
-- 🔐 **JWT-based authentication**, secure session handling, and Spring Security filter chains  
-- 🐳 **Dockerized deployment** with `maestro-compose.yml` and containerized Tomcat  
-- 🎨 **Responsive UI** using TailwindCSS, Bootstrap, and pixel-density-aware design  
-- ⚙️ **CI/CD-ready** with reproducible builds, offline-compatible pipelines, and safelisted dynamic classes  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=palash-kumar&theme=radical#gh-dark-mode-only)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=palash-kumar&theme=default#gh-light-mode-only)
 
----
-
-## 🛠️ Technical Skills
-
-| Domain        | Tools & Frameworks                                                                 |
-|---------------|-------------------------------------------------------------------------------------|
-| **Backend**   | Java, Spring Boot, Hibernate, REST APIs, JWT, Maven                                |
-| **Frontend**  | jQuery, Thymeleaf, TailwindCSS, Bootstrap, CSS breakpoints                         |
-| **DevOps**    | Docker, Bash, Python scripting, PostCSS, npm, offline build pipelines              |
-| **Security**  | Ethical hacking, password hashing formats, regex sanitization, input hardening     |
-| **Automation**| Custom scripts for deployment, sharing, and testing workflows                      |
-| **UX/Design** | Device-aware layouts, responsive design, smooth transitions, visual clarity         |
+</div>
 
 ---
 
-## 📂 Projects & Contributions
-
-Explore my [GitLab Activity](https://mg.maestro.com.bd:58480/users/Palash/activity) and [Projects](https://mg.maestro.com.bd:58480/users/Palash/projects) to see:
-
-- 🔐 Secure authentication and payment flows  
-- 📊 OCR and real-world data parsing services  
-- 🧪 UX-enhanced dashboards and responsive interfaces  
-- 🧰 Build pipeline optimizations and TailwindCSS migrations  
-- 🧼 Regex-based input sanitization for security-critical apps  
+## 📫 Connect With Me
+- 💼 [GitLab Profile](https://mg.maestro.com.bd:58480/Palash)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/palash-kumar)  
+- 🐦 [Twitter](https://twitter.com/palash_kumar)  
+- 🌐 [Portfolio Website](https://palash.dev) *(if available)*  
 
 ---
 
-## 🧠 Engineering Philosophy
-
-> “Code should be reproducible, secure, and elegant — not just functional.”
-
-I believe in:
-
-- **Reproducibility**: Every build should be deterministic and CI/CD-friendly  
-- **Security-first design**: From regex to session handling, every layer must be hardened  
-- **Modularity**: Domain separation and operational independence are non-negotiable  
-- **Visual polish**: Interfaces should be expressive, responsive, and pixel-perfect  
-
----
-
-## 📫 Contact
-
-📧 Email: `your.email@example.com`  
-📞 Phone: `+8801XXXXXXXXX`  
-🌐 Portfolio: [Maestro App](https://mg.maestro.com.bd:58480/Palash)
-
----
-
-<p align="center">
-  <em>Thanks for visiting — let's build something secure and beautiful together!</em>
-</p>
-
+✨ _“Professionalism and clarity are core to my communication style. I thrive on reproducible, secure workflows and visually expressive interfaces.”_
 
 
 <!---
