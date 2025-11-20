@@ -72,10 +72,10 @@
 ![Palash's GitHub stats](https://github-readme-stats.vercel.app/api?username=palash-kumar&show_icons=true&theme=default#gh-light-mode-only) --->
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=palash-kumar&layout=compact&theme=radical#gh-dark-mode-only)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=palash-kumar&layout=compact&theme=default#gh-light-mode-only)
+<!---![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=palash-kumar&layout=compact&theme=default#gh-light-mode-only)--->
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=palash-kumar&theme=radical#gh-dark-mode-only)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=palash-kumar&theme=default#gh-light-mode-only)
+<!---![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=palash-kumar&theme=default#gh-light-mode-only)--->
 
 </div>
 
