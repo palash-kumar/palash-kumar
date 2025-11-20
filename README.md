@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Palash Kumar
 
-💻 **Senior Software Engineer** specializing in secure, scalable software development, ERP systems, and modern UI/UX.  
-I architect modular Spring Boot applications, mobile apps, and DevOps pipelines with robust domain separation and operational independence.
+💻 **Senior Software Engineer** specializing in building secure, scalable applications across web, mobile, and enterprise platforms. Experienced in Java, Spring Boot, Hibernate, React, and Flutter, with a proven track record in ERP systems, ISP billing APIs, hotspot management, biometric attendance, and full‑stack business apps. Specialized in application security with Spring Security, JWT, and role‑based access controls, ensuring robust authentication and safe integrations with payment gateways and external devices. Skilled in DevOps automation using Docker, Jenkins, GitLab CI/CD, and GitHub Actions, with monitoring expertise in Grafana and Prometheus to deliver reliable, high‑availability systems.
 
 ---
 
