@@ -77,11 +77,8 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=palash-kumar&theme=radical#gh-dark-mode-only)
 <!---![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=palash-kumar&theme=default#gh-light-mode-only)--->
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
+
+<img src="https://raw.githubusercontent.com/palash-kumar/palash-kumar/output/snake.svg" alt="Snake animation" />
 
 </div>
 
