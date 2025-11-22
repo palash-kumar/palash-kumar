@@ -1,6 +1,9 @@
 # 👋 Hi, I'm Palash Kumar
 
-💻 **Senior Software Engineer** specializing in building secure, scalable applications across web, mobile, and enterprise platforms. Experienced in Java, Spring Boot, Hibernate, React, and Flutter, with a proven track record in ERP systems, ISP billing APIs, hotspot management, biometric attendance, and full‑stack business apps. Specialized in application security with Spring Security, JWT, and role‑based access controls, ensuring robust authentication and safe integrations with payment gateways and external devices. Skilled in DevOps automation using Docker, Jenkins, GitLab CI/CD, and GitHub Actions, with monitoring expertise in Grafana and Prometheus to deliver reliable, high‑availability systems.
+💻 **Senior Software Engineer** specializing in building secure, scalable applications across web, mobile, and enterprise platforms. 
+- Experienced in Java, Spring Boot, Hibernate, React, and Flutter, with a proven track record in ERP systems, ISP billing APIs, hotspot management, biometric attendance, and full‑stack business apps.
+- Specialized in application security with Spring Security, JWT, and role‑based access controls, ensuring robust authentication and safe integrations with payment gateways and external devices.
+- Skilled in DevOps automation using Docker, Jenkins, GitLab CI/CD, and GitHub Actions, with monitoring using Grafana and Prometheus to deliver reliable, high‑availability systems.
 
 ---
 
@@ -32,6 +35,9 @@
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
   <img src="https://img.shields.io/badge/Application_Security_Tester-000000?style=for-the-badge&logo=security&logoColor=white" alt="Application Security Tester"/>
   <img src="https://img.shields.io/badge/Ethical_Hacker-FF0000?style=for-the-badge&logo=hackaday&logoColor=white" alt="Ethical Hacker"/>
+  <img src="https://img.shields.io/badge/cyberdefenders-FF0000?style=for-the-badge&logo=hackaday&logoColor=white" alt="Ethical Hacker"/>
+
+
 
   <!-- DevOps -->
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
@@ -51,15 +57,15 @@
 
 ## 📌 Highlighted Projects
 
-- 🔐 **MaximCP App** – ISP management system with billing, payments, parental controls, and REST APIs.  
+- 🧾 **MAESTRO** – Full-stack business operations app with Spring Boot + React, Redis caching, OCR, and PDF/QR generation. 
 - 📊 **maXim ERP** – Enterprise resource planning system with attendance, inventory, and reporting.  
 - 🌐 **Hotspot Manager** – WiFi hotspot management with Mikrotik integration and payment gateways.  
 - 🏢 **Corporate Hotspot** – Branch and role-based hotspot management with Spring Security.  
 - 📱 **Maxim Flutter App** – Mobile billing app with Bluetooth receipt printing.  
 - 🔗 **BDCom Billing API** – RESTful API for ISP billing with JWT authentication.  
-- 📡 **MaximCP Customer App** – Android app with OTP login and Firebase notifications.  
+- 📡 **maXim Customer Portal App** – Android app with OTP login and Firebase notifications.
+- 🔐 **maXim Customer Portal** – ISP management system with billing, payments, parental controls, and REST APIs.  
 - 🕒 **ZKTeco Attendance System** – Biometric attendance tracking with Hibernate and Oracle.  
-- 🧾 **Maestro App** – Full-stack business operations app with Spring Boot + React, Redis caching, OCR, and PDF/QR generation.  
 - ⚙️ **DevOps Production** – CI/CD pipelines, Dockerized deployments, monitoring dashboards with Grafana and ELK.  
 
 ---
@@ -67,19 +73,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-<!---![Palash's GitHub stats](https://github-readme-stats.vercel.app/api?username=palash-kumar&show_icons=true&theme=radical#gh-dark-mode-only)
-![Palash's GitHub stats](https://github-readme-stats.vercel.app/api?username=palash-kumar&show_icons=true&theme=default#gh-light-mode-only) ---
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=palash-kumar&layout=compact&theme=radical#gh-dark-mode-only)
-<!---![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=palash-kumar&layout=compact&theme=default#gh-light-mode-only)---
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=palash-kumar&theme=radical#gh-dark-mode-only)
-<!---![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=palash-kumar&theme=default#gh-light-mode-only)--->
-
-
-<img src="https://raw.githubusercontent.com/palash-kumar/palash-kumar/output/snake.svg" alt="Snake animation" />
-
+![Snake Animation](output/snake.svg)
 </div>
 
 ---
@@ -88,7 +82,7 @@
 - 💼 [GitLab Profile](https://mg.maestro.com.bd:58480/Palash)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/palash-kumar)  
 - 🐦 [Twitter](https://twitter.com/palash_kumar)  
-- 🌐 [Portfolio Website](https://palash.dev) *(if available)*  
+<!--- 🌐 [Portfolio Website](https://palash.dev) *(if available)*  -->
 
 ---
 
