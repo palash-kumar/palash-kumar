@@ -34,8 +34,8 @@
   <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security"/>
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
   <img src="https://img.shields.io/badge/Application_Security_Tester-000000?style=for-the-badge&logo=security&logoColor=white" alt="Application Security Tester"/>
-  <img src="https://img.shields.io/badge/Ethical_Hacker-FF0000?style=for-the-badge&logo=hackaday&logoColor=white" alt="Ethical Hacker"/>
-  <img src="https://img.shields.io/badge/cyberdefenders-FF0000?style=for-the-badge&logo=hackaday&logoColor=white" alt="Ethical Hacker"/>
+  <!--<img src="https://img.shields.io/badge/Ethical_Hacker-FF0000?style=for-the-badge&logo=hackaday&logoColor=white" alt="Ethical Hacker"/>-->
+  <img src="https://img.shields.io/badge/Cyber_Sercurity-121011?style=for-the-badge&logo=hackaday&logoColor=white" alt="Shell Scripting"/>
 
 
 
@@ -72,24 +72,22 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-![Snake Animation](output/snake.svg)
+<div align="center">  
+  
+  ![Snake Animation](https://raw.githubusercontent.com/palash-kumar/palash-kumar/refs/heads/main/output/snake.svg)
+
+  
 </div>
 
 ---
 
 ## 📫 Connect With Me
 - 💼 [GitLab Profile](https://mg.maestro.com.bd:58480/Palash)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/palash-kumar)  
-- 🐦 [Twitter](https://twitter.com/palash_kumar)  
-<!--- 🌐 [Portfolio Website](https://palash.dev) *(if available)*  -->
+- 💼 [LinkedIn](https://www.linkedin.com/in/palash-k-nath-76653590)  
+<!--- - 🐦 [Twitter](https://twitter.com/palash_kumar)  
+🌐 [Portfolio Website](https://palash.dev) *(if available)*  -->
 
 ---
 
 ✨ _“Professionalism and clarity are core to my communication style. I thrive on reproducible, secure workflows and visually expressive interfaces.”_
 
-
-<!---
-palash-kumar/palash-kumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
